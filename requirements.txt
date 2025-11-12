@@ -1,1 +1,7 @@
-"this is from loacl file"
+streamlit
+langchain-community
+chromadb
+sentence-transformers
+torch
+huggingface-hub
+transformers
